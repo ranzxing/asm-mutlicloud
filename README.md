@@ -1,5 +1,6 @@
 # Anthos Multicloud
 
-[[_TOC_]]
+* auto-gen TOC:
+{:toc}
 
 ## Architecture
